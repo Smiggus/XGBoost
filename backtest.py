@@ -18,6 +18,8 @@ from datetime import datetime
 ''' Notes
 Look at the trade_log and come up with something to tally the trade_log to find the portfolio value
 Then add in portfolio allocations (equal weighting across tickers)
+
+Need to redo this project. Portfolio logging isnt working correctly. Convert it to quantconnect
 '''
 
 ticker_list = ['AAPL', 'MSFT', 'NVDA',  # Technology
